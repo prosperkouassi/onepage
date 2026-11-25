@@ -1,5 +1,5 @@
 # Bardebabi — direction visuelle
 
-Landing page de démonstration pour un bar convivial. Inspiration : rythme éditorial de PatioTime Bar, sans reprise de ses textes, images, logo ou identité. Palette crème, encre et laiton, titre sérif et interface sobre. Parcours : immersion, histoire, offre, ambiance, informations pratiques. Les photos Unsplash sont des illustrations externes ; remplacer par des photos autorisées avant lancement commercial.
+Webapp one-page bar lounge. Inspiration : rythme éditorial de PatioTime Bar, sans reprise de ses textes, logo ni identité. Palette demandée : noir profond `#0A0A0A`, surfaces `#111111` et `#161616`, or `#D4AF37`, blanc cassé `#F5F1E8`. Titrage sérif, corps sans sérif lisible. Parcours : accueil, histoire, menu filtrable, événements, demande de réservation, horaires/localisation et contact.
 
-Informations à renseigner avant production : ville, adresse, horaires, téléphone, réservation, carte et tarifs. Le site indique clairement leur absence et demande aux moteurs de ne pas indexer la démo.
+La démonstration ne doit pas inventer de prix, de dates d'événement, d'adresse ni de disponibilité. Les visuels externes sont illustratifs et doivent être remplacés par les photos autorisées de Bardebabi avant lancement.
